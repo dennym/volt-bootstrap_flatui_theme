@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Denny Mueller"]
   spec.email         = ["denny@dennymueller.de"]
   spec.summary       = %q{Flat UI free theme for volt when using bootstrap}
-  s.homepage         = 'https://github.com/dennym/i18n-city-translations'
+  spec.homepage         = 'https://github.com/dennym/i18n-city-translations'
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
